@@ -1,7 +1,7 @@
-Short Lnk
+# Short Lnk
 
 This is a link shortener built on meteor an React:
 
-Authors
+## Authors
 
 Noppadon Sodram
